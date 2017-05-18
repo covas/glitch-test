@@ -1,0 +1,20 @@
+{
+  "name": "fsafasdf",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "acordeonl <acordeonlwebmaster@gmail.com>"
+  ],
+  "dependencies":{
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
